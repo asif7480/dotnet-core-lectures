@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header>
+        I am header
+        <a href="@Url.Action("index", "home")">Home</a>
+        <a href="@Url.Action("about", "home")">About</a>
+        <a href="@Url.Action("contact", "home")">Contact</a>
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer>I am footer</footer>
+</body>
+</html>
