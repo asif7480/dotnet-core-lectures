@@ -1,0 +1,14 @@
+﻿<h2>I am index page</h2>
+
+<ul>
+    <li>Userame is: @ViewBag.Username</li>
+    <li>Age is: @ViewBag.Age</li>
+    <li>Can Code: @ViewBag.CanCode</li>
+    <li>Course list</li>
+    <ul>
+        @foreach(var course in ViewBag.courses)
+        {
+            <li>@course</li>
+        }
+    </ul>
+</ul>

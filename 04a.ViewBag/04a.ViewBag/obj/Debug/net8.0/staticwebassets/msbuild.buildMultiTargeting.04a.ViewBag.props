@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\04a.ViewBag.props" />
+</Project>

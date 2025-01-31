@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet-core-lectures\\04a.ViewBag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|e:\\dotnet-core-lectures\\04a.viewbag\\04a.viewbag\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|solutionrelative:04a.viewbag\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|e:\\dotnet-core-lectures\\04a.viewbag\\04a.viewbag\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|solutionrelative:04a.viewbag\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|e:\\dotnet-core-lectures\\04a.viewbag\\04a.viewbag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|solutionrelative:04a.viewbag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|e:\\dotnet-core-lectures\\04a.viewbag\\04a.viewbag\\views\\home\\secondpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|solutionrelative:04a.viewbag\\views\\home\\secondpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|e:\\dotnet-core-lectures\\04a.viewbag\\04a.viewbag\\views\\home\\thirdpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE5A86D-0B59-4BDD-AA94-9BDB2ACAF334}|04a.ViewBag\\04a.ViewBag.csproj|solutionrelative:04a.viewbag\\views\\home\\thirdpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Program.cs",
+              "RelativeDocumentMoniker": "04a.ViewBag\\Program.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Program.cs",
+              "RelativeToolTip": "04a.ViewBag\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:24:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThirdPage.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Views\\Home\\ThirdPage.cshtml",
+              "RelativeDocumentMoniker": "04a.ViewBag\\Views\\Home\\ThirdPage.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Views\\Home\\ThirdPage.cshtml",
+              "RelativeToolTip": "04a.ViewBag\\Views\\Home\\ThirdPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:22:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecondPage.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Views\\Home\\SecondPage.cshtml",
+              "RelativeDocumentMoniker": "04a.ViewBag\\Views\\Home\\SecondPage.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Views\\Home\\SecondPage.cshtml",
+              "RelativeToolTip": "04a.ViewBag\\Views\\Home\\SecondPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:22:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "04a.ViewBag\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "04a.ViewBag\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:21:35.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "04a.ViewBag\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\04a.ViewBag\\04a.ViewBag\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "04a.ViewBag\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:21:23.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
