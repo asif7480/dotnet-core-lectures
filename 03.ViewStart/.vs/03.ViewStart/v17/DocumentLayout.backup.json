@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet-core-lectures\\03.ViewStart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\views\\admin\\allusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\views\\admin\\allusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|e:\\dotnet-core-lectures\\03.viewstart\\03.viewstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CBD192-497D-42BD-8652-8A6A62159361}|03.ViewStart\\03.ViewStart.csproj|solutionrelative:03.viewstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "03.ViewStart\\Views\\shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "03.ViewStart\\Views\\shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T18:03:55.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllUsers.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\Admin\\AllUsers.cshtml",
+              "RelativeDocumentMoniker": "03.ViewStart\\Views\\Admin\\AllUsers.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\Admin\\AllUsers.cshtml",
+              "RelativeToolTip": "03.ViewStart\\Views\\Admin\\AllUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:47:27.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "03.ViewStart\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "03.ViewStart\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:47:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "03.ViewStart\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "03.ViewStart\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:44:38.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "03.ViewStart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "03.ViewStart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:41:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "03.ViewStart\\Views\\shared\\_Layout.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\shared\\_Layout.cshtml",
+              "RelativeToolTip": "03.ViewStart\\Views\\shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:39:07.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Program.cs",
+              "RelativeDocumentMoniker": "03.ViewStart\\Program.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Program.cs",
+              "RelativeToolTip": "03.ViewStart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:32:56.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "03.ViewStart\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "03.ViewStart\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:37:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "03.ViewStart\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "03.ViewStart\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:37:23.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "03.ViewStart\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\03.ViewStart\\03.ViewStart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "03.ViewStart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAmZmZmZkBwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:33:14.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
