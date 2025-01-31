@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet-core-lectures\\04b.ViewData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984BA6D1-6A25-42B9-A957-81A0BDCF4DCF}|04b.ViewData\\04b.ViewData.csproj|e:\\dotnet-core-lectures\\04b.viewdata\\04b.viewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{984BA6D1-6A25-42B9-A957-81A0BDCF4DCF}|04b.ViewData\\04b.ViewData.csproj|solutionrelative:04b.viewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984BA6D1-6A25-42B9-A957-81A0BDCF4DCF}|04b.ViewData\\04b.ViewData.csproj|e:\\dotnet-core-lectures\\04b.viewdata\\04b.viewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984BA6D1-6A25-42B9-A957-81A0BDCF4DCF}|04b.ViewData\\04b.ViewData.csproj|solutionrelative:04b.viewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984BA6D1-6A25-42B9-A957-81A0BDCF4DCF}|04b.ViewData\\04b.ViewData.csproj|e:\\dotnet-core-lectures\\04b.viewdata\\04b.viewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984BA6D1-6A25-42B9-A957-81A0BDCF4DCF}|04b.ViewData\\04b.ViewData.csproj|solutionrelative:04b.viewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\04b.ViewData\\04b.ViewData\\Program.cs",
+              "RelativeDocumentMoniker": "04b.ViewData\\Program.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\04b.ViewData\\04b.ViewData\\Program.cs",
+              "RelativeToolTip": "04b.ViewData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:42:21.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\04b.ViewData\\04b.ViewData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "04b.ViewData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\04b.ViewData\\04b.ViewData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "04b.ViewData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:42:12.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\04b.ViewData\\04b.ViewData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "04b.ViewData\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\04b.ViewData\\04b.ViewData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "04b.ViewData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAACAMjMzMzP7vwkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:42:00.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

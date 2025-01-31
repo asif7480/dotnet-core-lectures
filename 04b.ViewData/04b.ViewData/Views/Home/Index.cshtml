@@ -1,0 +1,14 @@
+﻿<h1>I am index</h1>
+
+<ul>
+    <li>@ViewData["username"]</li>
+    <li>@ViewData["age"]</li>
+    <li>@ViewData["canCode"]</li>
+        <ul>
+            @foreach (var month in (List<string>)ViewData["months"])
+            {
+                <li>@month</li>
+            }
+
+        </ul>
+</ul>
