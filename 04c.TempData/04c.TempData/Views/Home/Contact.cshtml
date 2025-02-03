@@ -1,0 +1,15 @@
+﻿<h1>I am contact page</h1>
+
+<ul>
+    <li>@ViewBag.Val1</li>
+    <li>@ViewData["Val2"]</li>
+    <li>@TempData["Val3"]</li>
+    @if(TempData["Val4"] is string[] courses && TempData["Val4"] != null)
+    {
+        @foreach (var course in courses)
+        {
+            <li>@course</li>
+        }
+    }
+
+</ul>
