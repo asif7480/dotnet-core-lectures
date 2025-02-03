@@ -1,0 +1,27 @@
+﻿@using _05.ModelsInDotnetCore.Models;
+@{
+	var employees = ViewData["employees"] as List<EmployeeModel>;
+}
+
+<table>
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>EmployeeName</th>
+			<th>Department</th>
+			<th>Salary</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		@foreach (var employee in employees)
+		{
+			<tr>
+				<td>@employee.empId</td>
+				<td>@employee.empName</td>
+				<td>@employee.dept</td>
+				<td>@employee.salary</td>
+			</tr>	
+		}
+	</tbody>
+</table>
