@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\dotnet-core-lectures\\07.ViewImport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|g:\\dotnet-core-lectures\\07.viewimport\\07.viewimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC61B422-87E7-4A49-BA79-9DD0986C944E}|07.ViewImport\\07.ViewImport.csproj|solutionrelative:07.viewimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "07.ViewImport\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "07.ViewImport\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:53:47.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "07.ViewImport\\Models\\Employee.cs",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Models\\Employee.cs",
+              "RelativeToolTip": "07.ViewImport\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:35:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "07.ViewImport\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "07.ViewImport\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:31:43.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "07.ViewImport\\Views\\shared\\_Layout.cshtml",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\shared\\_Layout.cshtml",
+              "RelativeToolTip": "07.ViewImport\\Views\\shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:28:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "07.ViewImport\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "07.ViewImport\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:27:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "07.ViewImport\\Views\\Home\\About.cshtml",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "07.ViewImport\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:26:33.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Program.cs",
+              "RelativeDocumentMoniker": "07.ViewImport\\Program.cs",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Program.cs",
+              "RelativeToolTip": "07.ViewImport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:23:24.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "07.ViewImport\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "07.ViewImport\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:23:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "07.ViewImport\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\dotnet-core-lectures\\07.ViewImport\\07.ViewImport\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "07.ViewImport\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:22:08.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

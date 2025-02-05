@@ -1,0 +1,14 @@
+﻿@model List<Employee>
+
+
+@* <h1>I am index page</h1> *@
+
+	@foreach (var employee in Model)
+	{
+	<ul>
+		<li>@employee.empId</li>
+		<li>@employee.empName</li>
+		<li>@employee.email</li>
+		<li>@employee.salary</li>
+	</ul>
+	}
