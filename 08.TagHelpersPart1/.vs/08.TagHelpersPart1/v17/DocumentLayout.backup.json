@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|solutionrelative:08.taghelperspart1\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|solutionrelative:08.taghelperspart1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|solutionrelative:08.taghelperspart1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|solutionrelative:08.taghelperspart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|solutionrelative:08.taghelperspart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|solutionrelative:08.taghelperspart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA8B6A83-E249-4C93-A278-6B2E75B62A65}|08.TagHelpersPart1\\08.TagHelpersPart1.csproj|g:\\dotnet-core-lectures\\08.taghelperspart1\\08.taghelperspart1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Program.cs",
               "RelativeDocumentMoniker": "08.TagHelpersPart1\\Program.cs",
@@ -54,18 +54,17 @@
               "RelativeToolTip": "08.TagHelpersPart1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:31:59.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T20:31:59.294Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Views\\shared\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "08.TagHelpersPart1\\Views\\shared\\_ViewImports.cshtml",
-              "ToolTip": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Views\\shared\\_ViewImports.cshtml",
-              "RelativeToolTip": "08.TagHelpersPart1\\Views\\shared\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "08.TagHelpersPart1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "08.TagHelpersPart1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-05T20:27:17.982Z",
               "EditorCaption": ""
@@ -85,20 +84,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Views\\shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "08.TagHelpersPart1\\Views\\shared\\_Layout.cshtml",
               "ToolTip": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Views\\shared\\_Layout.cshtml",
               "RelativeToolTip": "08.TagHelpersPart1\\Views\\shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T20:26:12.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T20:26:12.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "08.TagHelpersPart1\\Views\\Home\\Contact.cshtml",
@@ -106,12 +104,11 @@
               "RelativeToolTip": "08.TagHelpersPart1\\Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T20:25:34.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T20:25:34.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "About.cshtml",
               "DocumentMoniker": "G:\\dotnet-core-lectures\\08.TagHelpersPart1\\08.TagHelpersPart1\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "08.TagHelpersPart1\\Views\\Home\\About.cshtml",
@@ -119,8 +116,7 @@
               "RelativeToolTip": "08.TagHelpersPart1\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T20:25:01.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T20:25:01.965Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "08.TagHelpersPart1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T20:24:21.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T20:24:21.627Z"
             },
             {
               "$type": "Document",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "08.TagHelpersPart1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:23:20.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T20:23:20.563Z"
             }
           ]
         }
