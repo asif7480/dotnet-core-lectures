@@ -1,0 +1,48 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = "AddEmployee";
+}
+
+<h1>AddEmployee</h1>
+
+@* <a asp-controller="Home" asp-action="Index">go to home page</a> *@
+
+<form asp-action="Index" asp-controller="Home" method="post">
+    
+    <label asp-for="EmpName">Employee name</label>
+    <input asp-for="EmpName" placeholder="Enter employee name"/>
+    <br />
+    
+    <label asp-for="Email">Email</label>
+    <input asp-for="Email" placeholder="Enter email"/>
+    <br />
+
+    <label asp-for="Department">Department</label>
+    <input asp-for="Department" placeholder="Enter department"/>
+    <br />
+
+    <label asp-for="Country">Country</label>
+    <select asp-for="Country" asp-items="Html.GetEnumSelectList<Countries>()">
+        <option value="">Select Country</option>
+    </select>
+    <br />
+
+    <label asp-for="Gender">
+        Gender
+    </label>
+    <br />
+    <input type="radio" asp-for="Gender" value="Man"/>
+    <label>Man</label>
+    <input type="radio" asp-for="Gender" value="Woman"/>
+    <label>Woman</label>
+    
+    <br />
+
+    <label asp-for="Description">Description</label>
+    <textarea asp-for="Description" placeholder="Enter description" rows="5">
+    </textarea>
+    <br />
+
+    <input type="submit" value="click to submit form" />
+</form>
