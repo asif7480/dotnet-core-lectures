@@ -1,0 +1,19 @@
+﻿@model Employee
+
+<h2>Please add record</h2>
+
+<form asp-action="Index" asp-controller="Home" method="post">
+	<label asp-for="Name">Enter Name: </label>
+	<input asp-for="Name" type="text" placeholder="Enter your name" />
+	<span asp-validation-for="Name"></span>
+
+	<br />
+
+	<label asp-for="Email">Enter Email: </label>
+	<input asp-for="Email" type="text" placeholder="Enter your email"/>
+	<span asp-validation-for="Email"></span>
+
+	<br />
+
+	<input type="submit" value="Click to add data"/>
+</form>
