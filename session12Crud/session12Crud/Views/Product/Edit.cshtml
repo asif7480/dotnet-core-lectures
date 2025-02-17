@@ -1,0 +1,21 @@
+﻿@model Product
+<h2>Edit Product</h2>
+
+<a asp-controller="Product" asp-action="Index">See all products</a>
+
+
+<form method="post">
+	<input class="mb-5" type="hidden" asp-for="ProductId" />
+
+	<div class="mb-3">
+		<input class="form-control" asp-for="Name" placeholder="Enter product name" />
+	</div>
+
+	<div class="mb-3">
+		<input class="form-control" asp-for="Price" placeholder="Enter price" />
+	</div>
+
+	<div class="mb-3">
+		<input class="btn btn-primary" type="submit" value="update" />
+	</div>
+</form>
