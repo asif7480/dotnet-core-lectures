@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet-core-lectures\\session12Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46140528-B538-488A-A1BE-97AB27363F12}|session12Crud\\session12Crud.csproj|e:\\dotnet-core-lectures\\session12crud\\session12crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46140528-B538-488A-A1BE-97AB27363F12}|session12Crud\\session12Crud.csproj|solutionrelative:session12crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46140528-B538-488A-A1BE-97AB27363F12}|session12Crud\\session12Crud.csproj|e:\\dotnet-core-lectures\\session12crud\\session12crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46140528-B538-488A-A1BE-97AB27363F12}|session12Crud\\session12Crud.csproj|solutionrelative:session12crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46140528-B538-488A-A1BE-97AB27363F12}|session12Crud\\session12Crud.csproj|e:\\dotnet-core-lectures\\session12crud\\session12crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46140528-B538-488A-A1BE-97AB27363F12}|session12Crud\\session12Crud.csproj|solutionrelative:session12crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\session12Crud\\session12Crud\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "session12Crud\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\session12Crud\\session12Crud\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "session12Crud\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T18:30:41.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\session12Crud\\session12Crud\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "session12Crud\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\session12Crud\\session12Crud\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "session12Crud\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:12:40.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\session12Crud\\session12Crud\\Program.cs",
+              "RelativeDocumentMoniker": "session12Crud\\Program.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\session12Crud\\session12Crud\\Program.cs",
+              "RelativeToolTip": "session12Crud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:39:20.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

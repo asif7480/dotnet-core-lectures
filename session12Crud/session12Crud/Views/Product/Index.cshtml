@@ -1,0 +1,27 @@
+﻿@* @using session12Crud.Models *@
+@* @model List<Product> *@
+@model IEnumerable<Product>
+
+<h2>All products</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Product</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductId</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
