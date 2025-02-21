@@ -1,0 +1,21 @@
+﻿@model session13AuthWithIdentity.ViewModels.LoginViewModel
+
+<h1>Login</h1>
+
+<form asp-action="Login" method="post">
+	<div>
+		<input class="form-control" asp-for="Email" placeholder="Enter your email" />
+		<span asp-validation-for="Email"></span>
+	</div>
+
+	<div>
+		<input class="form-control" asp-for="Password" placeholder="Enter your password" />
+		<span asp-validation-for="Password"></span>
+	</div>
+
+	<div>
+		<input type="submit" value="click to login" />
+	</div>
+
+</form>
+

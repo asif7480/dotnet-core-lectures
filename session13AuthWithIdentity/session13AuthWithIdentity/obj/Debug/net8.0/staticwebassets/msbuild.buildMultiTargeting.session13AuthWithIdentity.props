@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\session13AuthWithIdentity.props" />
+</Project>
