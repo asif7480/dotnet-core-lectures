@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\template_integration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|e:\\template_integration\\template_integration\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|solutionrelative:template_integration\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|e:\\template_integration\\template_integration\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|solutionrelative:template_integration\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|e:\\template_integration\\template_integration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|solutionrelative:template_integration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|e:\\template_integration\\template_integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|solutionrelative:template_integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|e:\\template_integration\\template_integration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|solutionrelative:template_integration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|e:\\template_integration\\template_integration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|solutionrelative:template_integration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|e:\\template_integration\\template_integration\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|solutionrelative:template_integration\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|e:\\template_integration\\template_integration\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDE2FD80-5E58-4AD9-9BFE-C14F40403DE0}|template_integration\\template_integration.csproj|solutionrelative:template_integration\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "E:\\template_integration\\template_integration\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "template_integration\\Views\\Home\\NotFound.cshtml",
+              "ToolTip": "E:\\template_integration\\template_integration\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "template_integration\\Views\\Home\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:49:47.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\template_integration\\template_integration\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "template_integration\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\template_integration\\template_integration\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "template_integration\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:46:35.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\template_integration\\template_integration\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "template_integration\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\template_integration\\template_integration\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "template_integration\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:40:44.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\template_integration\\template_integration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "template_integration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\template_integration\\template_integration\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "template_integration\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAmwJQBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:37:41.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\template_integration\\template_integration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "template_integration\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\template_integration\\template_integration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "template_integration\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:19:19.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\template_integration\\template_integration\\Program.cs",
+              "RelativeDocumentMoniker": "template_integration\\Program.cs",
+              "ToolTip": "E:\\template_integration\\template_integration\\Program.cs",
+              "RelativeToolTip": "template_integration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:17:43.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\template_integration\\template_integration\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "template_integration\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\template_integration\\template_integration\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "template_integration\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-24T16:15:03.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\template_integration\\template_integration\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "template_integration\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\template_integration\\template_integration\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "template_integration\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-24T16:14:55.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
