@@ -1,0 +1,21 @@
+﻿@model authAndCrud.Models.Product
+
+<h2>Add new product</h2>
+
+<a asp-controller="Product" asp-action="Index">All products</a>
+
+<form method="post">
+	<div class="mb-3">
+		<input asp-for="Name" placeholder="Enter product name" />
+		<span asp-validation-for="Name"></span>
+	</div>
+
+	<div class="mb-3">
+		<input asp-for="Price" placeholder="Enter product price" />
+		<span asp-validation-for="Price"></span>
+	</div>
+
+	<div class="mb-3">
+		<input type="submit" value="click to add product" />
+	</div>
+</form>

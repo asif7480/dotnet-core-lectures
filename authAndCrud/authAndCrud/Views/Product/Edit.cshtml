@@ -1,0 +1,22 @@
+﻿@model authAndCrud.Models.Product
+
+<h2>Edit Product</h2>
+
+<a asp-controller="Product" asp-action="Index">All products</a>
+
+<form method="post">
+
+	<input type="hidden" asp-for="Id" />
+
+	<div class="mb-3">
+		<input asp-for="Name" placeholder="Enter product name" />
+	</div>
+
+	<div class="mb-3">
+		<input asp-for="Price" placeholder="Enter product price" />
+	</div>
+
+	<div class="mb-3">
+		<input type="submit" value="click to edit product" />
+	</div>
+</form>
