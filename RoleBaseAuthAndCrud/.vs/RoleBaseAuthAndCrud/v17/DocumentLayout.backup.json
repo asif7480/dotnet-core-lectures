@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RoleBaseAuthAndCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|e:\\rolebaseauthandcrud\\rolebaseauthandcrud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DC7F3A-7153-4216-AB1F-5AF39516C27B}|RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj|solutionrelative:rolebaseauthandcrud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T01:50:23.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T01:49:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:13:01.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:12:13.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:10:49.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\Program.cs",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Program.cs",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:54:46.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\Models\\User.cs",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Models\\User.cs",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:53:41.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:50:42.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoleBaseAuthAndCrud\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoleBaseAuthAndCrud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:23:15.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
