@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoleBaseAuthAndCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f20f4318702bc9b2c008a15d6ae5a22d71fd486d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoleBaseAuthAndCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoleBaseAuthAndCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

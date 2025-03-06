@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet-core-lectures\\Session19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|e:\\dotnet-core-lectures\\session19\\session19\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742E406-D1E8-4167-8AA6-490F01A578CB}|Session19\\Session19.csproj|solutionrelative:session19\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Session19\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Session19\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:37:06.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Session19\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Session19\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:35:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Session19\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Session19\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:35:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Session19\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Session19\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:35:05.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Session19\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Session19\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:30:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Session19\\Models\\User.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\Models\\User.cs",
+              "RelativeToolTip": "Session19\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:06:41.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\Program.cs",
+              "RelativeDocumentMoniker": "Session19\\Program.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\Program.cs",
+              "RelativeToolTip": "Session19\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:10:00.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\appsettings.json",
+              "RelativeDocumentMoniker": "Session19\\appsettings.json",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\appsettings.json",
+              "RelativeToolTip": "Session19\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T05:08:37.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\dotnet-core-lectures\\Session19\\Session19\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Session19\\data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\dotnet-core-lectures\\Session19\\Session19\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Session19\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:04:24.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

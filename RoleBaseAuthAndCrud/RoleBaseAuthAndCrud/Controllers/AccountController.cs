@@ -21,7 +21,7 @@ namespace RoleBaseAuthAndCrud.Controllers
         [HttpPost]
         public async Task<IActionResult> Register(RegisterViewModel model)
         {
-            if (ModelState.IsValid) return View(model);
+            if (!ModelState.IsValid) return View(model);
 
             var user = new User { UserName = model.UserName, Email = model.Email, Gender = model.Gender, Address = model.Address };
 

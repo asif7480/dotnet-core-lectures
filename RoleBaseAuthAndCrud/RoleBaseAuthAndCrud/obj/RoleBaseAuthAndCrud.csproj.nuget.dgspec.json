@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj": {}
+    "E:\\dotnet-core-lectures\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj": {}
   },
   "projects": {
-    "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj": {
+    "E:\\dotnet-core-lectures\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj",
+        "projectUniqueName": "E:\\dotnet-core-lectures\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj",
         "projectName": "RoleBaseAuthAndCrud",
-        "projectPath": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj",
+        "projectPath": "E:\\dotnet-core-lectures\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud.csproj",
         "packagesPath": "C:\\Users\\Asif\\.nuget\\packages\\",
-        "outputPath": "E:\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\obj\\",
+        "outputPath": "E:\\dotnet-core-lectures\\RoleBaseAuthAndCrud\\RoleBaseAuthAndCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
