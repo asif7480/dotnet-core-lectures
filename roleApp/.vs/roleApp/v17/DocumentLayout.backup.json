@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\roleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|e:\\roleapp\\roleapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C231986D-7E0B-49ED-9789-374E5E9B7E34}|roleApp\\roleApp.csproj|solutionrelative:roleapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "roleApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\roleApp\\roleApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "roleApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T01:27:24.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "roleApp\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\roleApp\\roleApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "roleApp\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:16:51.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "roleApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\roleApp\\roleApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "roleApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:45:34.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "roleApp\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\roleApp\\roleApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "roleApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:35:49.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "roleApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\roleApp\\roleApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "roleApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:31:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "roleApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\roleApp\\roleApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "roleApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:30:05.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "roleApp\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\roleApp\\roleApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "roleApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:27:30.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "roleApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\roleApp\\roleApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "roleApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:36:20.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "roleApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\roleApp\\roleApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "roleApp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:45:09.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\roleApp\\roleApp\\Program.cs",
+              "RelativeDocumentMoniker": "roleApp\\Program.cs",
+              "ToolTip": "E:\\roleApp\\roleApp\\Program.cs",
+              "RelativeToolTip": "roleApp\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:44:15.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

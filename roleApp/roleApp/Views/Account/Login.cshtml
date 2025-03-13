@@ -1,0 +1,20 @@
+﻿@model roleApp.ViewModels.LoginViewModel
+
+
+<h2 class="text-center">Login</h2>
+
+<form asp-action="login" method="post">
+	<div>
+		<label asp-for="Email">Email</label>
+		<input asp-for="Email" placeholder="Enter your email"/>
+		<span asp-validation-for="Email"></span>
+	</div>
+
+	<div>
+		<label asp-for="Password">Password</label>
+		<input asp-for="Password" placeholder="Enter your password" />
+		<span asp-validation-for="Password"></span>
+	</div>
+
+	<button type="submit">login</button>
+</form>
